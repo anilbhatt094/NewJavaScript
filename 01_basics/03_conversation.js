@@ -4,4 +4,5 @@ let age = 33;
 
 let ChangeType = Boolean(age);
 // console.log(ChangeType);
-console.log(typeof ChangeType);
+//console.log(typeof ChangeType);
+console.log("1" + 2 * "2");
